@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exercise Habit Tracker</string>
+
+    <!-- Label for overflow menu option that inserts fake pet data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <string name="instructions">To insert Dummy Data click on the Setting menu</string>
+
+</resources>
